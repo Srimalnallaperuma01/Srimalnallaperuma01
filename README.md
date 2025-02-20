@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Srimal!
-🎓 Undergraduate student at the University of Ruhuna, pursuing a Bachelor's degree in Computer Science.
-🎥 YouTuber sharing knowledge and tech content.
-🧮 Former math teacher with a passion for problem-solving.
-💡 A fast learner, good communicator, and enthusiastic tech lover always eager to explore new technologies and build impactful web applications.
+👋 Hi, I'm Srimal!<br/>
+🎓 Undergraduate student at the University of Ruhuna, pursuing a Bachelor's degree in Computer Science.<br/>
+🎥 YouTuber sharing knowledge and tech content.<br/>
+🧮 Former math teacher with a passion for problem-solving.<br/>
+💡 A fast learner, good communicator, and enthusiastic tech lover always eager to explore new technologies and build impactful web applications.<br/>
 
 
 ## 🌐 Socials:
