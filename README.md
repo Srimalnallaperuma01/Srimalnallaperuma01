@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Srimal an undergraduate at University of Ruhuna. I am following Bachelors of computer science degree
+👋 Hi, I'm Srimal!
+🎓 Undergraduate student at the University of Ruhuna, pursuing a Bachelor's degree in Computer Science.
+🎥 YouTuber sharing knowledge and tech content.
+🧮 Former math teacher with a passion for problem-solving.
+💡 A fast learner, good communicator, and enthusiastic tech lover always eager to explore new technologies and build impactful web applications.
 
 
 ## 🌐 Socials:
