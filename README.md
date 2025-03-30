@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61564357348978)<nbsp><nbsp>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavishkasrimal)<nbsp><nbsp>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://garnet-corn-zn2v8z.mystrikingly.com/)<nbsp><nbsp>
+[![Portfolio Site](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://garnet-corn-zn2v8z.mystrikingly.com/)<nbsp><nbsp>
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://youtube.com/@dompelkmoviereview)
 
 # 💻 Tech Stack:
